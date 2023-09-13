@@ -121,7 +121,7 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
   - tag
   - recent_posts
   - recent_comments
-  - links
+  # - links
 
 info:
   avatar: /img/avatar.png
